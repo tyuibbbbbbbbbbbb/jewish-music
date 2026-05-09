@@ -5,7 +5,7 @@ const path = require("path");
 const crypto = require("crypto");
 const ARTISTS = require("./artists");
 
-const API_KEY = process.env.YT_API_KEY || "AIzaSyB52wOQveTGV3L4yaTVB4yeBq58R463TCo";
+const API_KEY = process.env.YT_API_KEY;
 const GITHUB_USER = "tyuibbbbbbbbbbbb";
 const GITHUB_REPO = "jewish-music";
 const GITHUB_BRANCH = "main";

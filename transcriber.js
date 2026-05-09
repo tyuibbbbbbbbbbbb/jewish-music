@@ -4,7 +4,7 @@ const fs = require("fs");
 const path = require("path");
 const { execSync } = require("child_process");
 
-const GEMINI_KEY = process.env.GEMINI_KEY || "AIzaSyB52wOQveTGV3L4yaTVB4yeBq58R463TCo";
+const GEMINI_KEY = process.env.GEMINI_KEY;
 const GEMINI_MODEL = "gemini-2.0-flash";
 const GEMINI_URL = `https://generativelanguage.googleapis.com/v1beta/models/${GEMINI_MODEL}:generateContent?key=${GEMINI_KEY}`;
 
