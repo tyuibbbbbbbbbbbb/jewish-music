@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>🎵 מוזיקה חרדית</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header id="header">
+    <h1>🎵 מוזיקה חרדית</h1>
+    <div class="stats" id="stats"></div>
+    <div class="search-bar">
+      <input type="text" id="search" placeholder="🔍 חיפוש שיר או אמן..." autocomplete="off">
+    </div>
+    <div class="filters" id="filters"></div>
+  </header>
+  <main id="songs-grid" class="songs-grid"></main>
+  
+  <!-- מודל תמלול -->
+  <div id="lyrics-modal" class="modal hidden">
+    <div class="modal-content">
+      <button class="modal-close" onclick="closeModal()">&times;</button>
+      <h2 id="modal-title"></h2>
+      <p id="modal-artist" class="modal-artist"></p>
+      <div id="modal-lyrics" class="modal-lyrics"></div>
+    </div>
+  </div>
+
+  <script src="app.js"></script>
+</body>
+</html>

@@ -1,0 +1,49 @@
+name: Scan Music
+
+on:
+  schedule:
+    - cron: "0 */4 * * *"   # כל 4 שעות
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Install dependencies
+        run: npm install --no-audit --no-fund
+
+      - name: Install yt-dlp
+        run: |
+          sudo curl -L https://github.com/yt-dlp/yt-dlp/releases/latest/download/yt-dlp -o /usr/local/bin/yt-dlp
+          sudo chmod a+rx /usr/local/bin/yt-dlp
+          yt-dlp --version
+
+      - name: Scrape & Transcribe
+        run: node scripts/scrape.js
+        env:
+          YT_API_KEY: ${{ secrets.YT_API_KEY }}
+          GEMINI_KEY: ${{ secrets.GEMINI_KEY }}
+
+      - name: Commit results
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if [ -n "$(git status --porcelain data/)" ]; then
+            git commit -m "chore(data): update [skip ci] $(date -u +'%Y-%m-%dT%H:%MZ')"
+            git push
+          else
+            echo "No changes."
+          fi
