@@ -129,7 +129,13 @@ Instructions:
 
 // חיפוש מילות שירים עבור batch
 async function transcribeNewSongs(songs) {
+  if (!GEMINI_KEY) {
+    console.log("    ⚠ GEMINI_KEY לא מוגדר – מדלג על תמלול");
+    return [];
+  }
+
   let count = 0;
+  let consecutiveErrors = 0;
   const results = [];
 
   for (const song of songs) {
@@ -137,14 +143,24 @@ async function transcribeNewSongs(songs) {
       console.log(`    ⏱ הגבלת ${MAX_PER_RUN} שירים בריצה`);
       break;
     }
+    // אם 3 שגיאות רצופות – API כנראה חסום, נפסיק
+    if (consecutiveErrors >= 3) {
+      console.log("    ⚠ Gemini API חסום/לא זמין – מפסיק תמלול");
+      break;
+    }
 
     const existing = path.join(TRANSCRIPTS_DIR, `${song.videoId}.json`);
     if (fs.existsSync(existing)) continue;
 
     const result = await fetchLyrics(song.videoId, song.title, song.artist);
-    if (result) results.push(result);
+    if (result) {
+      results.push(result);
+      consecutiveErrors = 0;
+    } else {
+      consecutiveErrors++;
+    }
     count++;
-    await sleep(500); // rate limiting
+    await sleep(1000); // rate limiting
   }
 
   return results;
