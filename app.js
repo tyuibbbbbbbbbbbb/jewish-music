@@ -41,7 +41,14 @@ function formatTime(sec) {
   return `${m}:${s.toString().padStart(2, '0')}`;
 }
 
-// === YouTube IFrame API ===
+// === YouTube IFrame API – טעינה דינמית (לא חוסמת) ===
+function loadYouTubeAPI() {
+  var tag = document.createElement("script");
+  tag.src = "https://www.youtube.com/iframe_api";
+  tag.onerror = function () { console.warn("YouTube API failed to load"); };
+  document.head.appendChild(tag);
+}
+
 window.onYouTubeIframeAPIReady = function () {
   ytPlayer = new YT.Player("yt-player", {
     height: "1",
@@ -455,3 +462,6 @@ document.getElementById("lyrics-modal").addEventListener("click", (e) => {
 // טעינה ראשונית + רענון כל 5 דקות
 loadData();
 setInterval(loadData, 5 * 60 * 1000);
+
+// טעינת YouTube API דינמית (לא חוסמת את הנתונים)
+loadYouTubeAPI();
