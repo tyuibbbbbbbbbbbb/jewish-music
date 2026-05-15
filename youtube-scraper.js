@@ -13,15 +13,13 @@ const IMAGES_DIR = path.join(__dirname, "data", "images");
 const STATE_FILE = path.join(__dirname, "data", "yt-state.json");
 
 // כמה אמנים לחפש בכל ריצה (רוטציה)
-const ARTISTS_PER_RUN = 10;
+const ARTISTS_PER_RUN = 5;
 // תוצאות לכל חיפוש
 const RESULTS_PER_SEARCH = 3;
 
 // שאילתות כלליות שרצות תמיד
 const BROAD_QUERIES = [
-  "jewish music new 2026",
-  "מוזיקה חרדית חדש 2026",
-  "jewish hasidic music official",
+  "jewish hasidic music new song 2026",
 ];
 
 function hash(s) {
