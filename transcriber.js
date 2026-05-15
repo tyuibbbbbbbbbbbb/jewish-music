@@ -25,7 +25,7 @@ function geminiRequest(body) {
       path: url.pathname + url.search,
       method: "POST",
       headers: { "Content-Type": "application/json", "Content-Length": Buffer.byteLength(data) },
-      timeout: 30000,
+      timeout: 60000,
     };
     const req = https.request(options, (res) => {
       let body = "";
@@ -44,40 +44,61 @@ function geminiRequest(body) {
 
 function sleep(ms) { return new Promise(r => setTimeout(r, ms)); }
 
-// חיפוש מילות שיר לפי שם + אמן דרך Gemini
+// תמלול שיר ישירות מסרטון YouTube דרך Gemini
 async function fetchLyrics(videoId, title, artist) {
   const transcriptPath = path.join(TRANSCRIPTS_DIR, `${videoId}.json`);
   if (fs.existsSync(transcriptPath)) {
-    return JSON.parse(fs.readFileSync(transcriptPath, "utf8"));
+    const cached = JSON.parse(fs.readFileSync(transcriptPath, "utf8"));
+    if (cached.lyrics) return cached;
+    // אם זה placeholder ישן (ללא lyrics), ננסה שוב רק אם עברו 7 ימים
+    if (cached.transcribedAt) {
+      const age = Date.now() - new Date(cached.transcribedAt).getTime();
+      if (age < 4 * 3600 * 1000) return null;
+    }
   }
 
   if (!GEMINI_KEY) return null;
   ensureDir(TRANSCRIPTS_DIR);
 
-  console.log(`    🎤 Gemini lyrics: ${title} - ${artist || "?"}`);
+  const ytUrl = `https://www.youtube.com/watch?v=${videoId}`;
+  console.log(`    🎤 Gemini transcribe: ${title} - ${artist || "?"}`);
 
   try {
-    const prompt = `Find the lyrics for this Jewish/Hasidic song:
-Title: "${title}"
-Artist: ${artist || "Unknown"}
+    // Gemini 2.0 Flash יכול לעבד YouTube URLs ישירות
+    const result = await geminiRequest({
+      contents: [{
+        parts: [
+          {
+            fileData: {
+              mimeType: "video/*",
+              fileUri: ytUrl,
+            }
+          },
+          {
+            text: `Transcribe the song lyrics from this music video.
 
 Instructions:
-1. Write ONLY the song lyrics, no explanations or notes.
+1. Write ONLY the song lyrics, no explanations, timestamps, or notes.
 2. Separate verses with an empty line.
 3. If the song is in English, write the English lyrics first, then add a section "--- תרגום לעברית ---" with a full Hebrew translation.
-4. If the song is in Hebrew/Aramaic, write only the lyrics.
-5. If you have mixed Hebrew and English parts, transcribe all and translate only the English parts.
-6. If you don't know this specific song, respond with exactly: UNKNOWN
-7. Do NOT make up lyrics. Only provide them if you know the actual song.`;
-
-    const result = await geminiRequest({
-      contents: [{ parts: [{ text: prompt }] }],
+4. If the song is in Hebrew/Aramaic, write only the lyrics as-is.
+5. If there are mixed Hebrew and English parts, transcribe all and translate only the English parts.
+6. If this is not a song or has no discernible lyrics (instrumental, etc.), respond with exactly: INSTRUMENTAL`
+          }
+        ]
+      }]
     });
 
     const text = result?.candidates?.[0]?.content?.parts?.[0]?.text;
-    if (!text || text.trim() === "UNKNOWN" || text.length < 20) {
-      console.log(`    ⚠ Gemini: שיר לא ידוע`);
-      // שומר placeholder כדי לא לנסות שוב
+
+    // בדיקה אם Gemini החזיר שגיאה
+    if (result?.error) {
+      console.log(`    ⚠ Gemini API error: ${result.error.message || JSON.stringify(result.error).slice(0, 100)}`);
+      return null;
+    }
+
+    if (!text || text.trim() === "INSTRUMENTAL" || text.length < 20) {
+      console.log(`    ⚠ Gemini: אין מילים (instrumental / לא ניתן לתמלל)`);
       const empty = { videoId, title, artist, lyrics: null, language: null, transcribedAt: new Date().toISOString() };
       fs.writeFileSync(transcriptPath, JSON.stringify(empty, null, 2), "utf8");
       return null;
@@ -98,10 +119,10 @@ Instructions:
     };
 
     fs.writeFileSync(transcriptPath, JSON.stringify(transcript, null, 2), "utf8");
-    console.log(`    ✅ מילים נמצאו: ${title} (${lang})`);
+    console.log(`    ✅ תמלול הושלם: ${title} (${lang})`);
     return transcript;
   } catch (e) {
-    console.log(`    ⚠ Gemini error: ${e.message.slice(0, 100)}`);
+    console.log(`    ⚠ Gemini error: ${e.message.slice(0, 150)}`);
     return null;
   }
 }
