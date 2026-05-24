@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-05-24T13:50:03.939Z",
+  "generatedAt": "2026-05-24T17:12:46.803Z",
   "totalSongs": 200,
   "totalTranscribed": 0,
   "songs": [
@@ -51,7 +51,7 @@
       "link": "https://www.youtube.com/watch?v=UcS-z8-dTJo",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/116942bbe786.jpg",
       "description": "",
-      "publishedAt": "1 month ago",
+      "publishedAt": "2 months ago",
       "isNew": false,
       "firstSeen": "2026-05-15T11:31:32.180Z"
     },
@@ -1546,7 +1546,7 @@
       "link": "https://www.youtube.com/watch?v=-6iUos9oowc",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/fd54530ee412.jpg",
       "description": "",
-      "publishedAt": "4y ago",
+      "publishedAt": "4 years ago",
       "isNew": false,
       "firstSeen": "2026-05-15T11:57:06.846Z"
     },
@@ -1559,7 +1559,7 @@
       "link": "https://www.youtube.com/watch?v=vUIt07E85ck",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/56b2c0280d8e.jpg",
       "description": "",
-      "publishedAt": "7y ago",
+      "publishedAt": "7 years ago",
       "isNew": false,
       "firstSeen": "2026-05-15T11:57:06.846Z"
     },
@@ -1572,7 +1572,7 @@
       "link": "https://www.youtube.com/watch?v=46QLk8XfuAI",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/0030569a5d64.jpg",
       "description": "",
-      "publishedAt": "4mo ago",
+      "publishedAt": "4 months ago",
       "isNew": false,
       "firstSeen": "2026-05-15T11:57:06.846Z"
     },
@@ -1664,7 +1664,7 @@
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/5691380af367.jpg",
       "description": "",
       "publishedAt": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-05-15T11:57:06.846Z"
     },
     {
@@ -1741,7 +1741,7 @@
       "link": "https://www.youtube.com/watch?v=Xh8J2YQUb_E",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/290b6c04511f.jpg",
       "description": "",
-      "publishedAt": "6 years ago",
+      "publishedAt": "6y ago",
       "isNew": false,
       "firstSeen": "2026-05-15T12:04:01.501Z"
     },
@@ -1754,7 +1754,7 @@
       "link": "https://www.youtube.com/watch?v=hsMUPCBTRRM",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/2ee76d020f84.jpg",
       "description": "",
-      "publishedAt": "12 years ago",
+      "publishedAt": "12y ago",
       "isNew": false,
       "firstSeen": "2026-05-15T12:04:01.501Z"
     },
@@ -1767,7 +1767,7 @@
       "link": "https://www.youtube.com/watch?v=r0bkXGN8BdM",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/75b84eddfa44.jpg",
       "description": "",
-      "publishedAt": "6 months ago",
+      "publishedAt": "6mo ago",
       "isNew": false,
       "firstSeen": "2026-05-15T12:04:01.501Z"
     },
@@ -1801,12 +1801,12 @@
       "id": "4bc7c54c405f",
       "videoId": "A11N7AQd77U",
       "title": "Baruch Levine & Shmueli Ungar: Zeh Hakatan | ברוך לוין ושמילי אונגר: זה הקטן (Official Music Video)",
-      "artist": "שמואלי אונגר",
+      "artist": "ברוך לוין",
       "channel": "Baruch Levine Official ברוך לוין",
       "link": "https://www.youtube.com/watch?v=A11N7AQd77U",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/4bc7c54c405f.jpg",
       "description": "",
-      "publishedAt": "2 years ago",
+      "publishedAt": "3 years ago",
       "isNew": false,
       "firstSeen": "2026-05-15T12:04:01.501Z"
     },
@@ -1858,8 +1858,8 @@
       "link": "https://www.youtube.com/watch?v=QKd3FijOeX4",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/9ddb43dd1b6a.jpg",
       "description": "",
-      "publishedAt": "4 months ago",
-      "isNew": true,
+      "publishedAt": "5 months ago",
+      "isNew": false,
       "firstSeen": "2026-05-15T12:04:01.501Z"
     },
     {
