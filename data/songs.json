@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-02T04:28:24.771Z",
+  "generatedAt": "2026-06-02T12:13:51.986Z",
   "totalSongs": 200,
   "totalTranscribed": 0,
   "songs": [
@@ -12,7 +12,7 @@
       "link": "https://www.youtube.com/watch?v=oc--CmZpyno",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/694cef3e5bf9.jpg",
       "description": "",
-      "publishedAt": "2mo ago",
+      "publishedAt": "3 months ago",
       "isNew": false,
       "firstSeen": "2026-05-15T11:31:32.180Z"
     },
@@ -77,7 +77,7 @@
       "link": "https://www.youtube.com/watch?v=EgcO3DBxAs0",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/6fad806ec5f4.jpg",
       "description": "",
-      "publishedAt": "10 months ago",
+      "publishedAt": "10mo ago",
       "isNew": false,
       "firstSeen": "2026-05-15T11:31:32.180Z"
     },
@@ -103,7 +103,7 @@
       "link": "https://www.youtube.com/watch?v=A5JsQIZfroQ",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/9a2361e30bd0.jpg",
       "description": "",
-      "publishedAt": "2 months ago",
+      "publishedAt": "2mo ago",
       "isNew": false,
       "firstSeen": "2026-05-15T11:31:32.180Z"
     },
@@ -116,7 +116,7 @@
       "link": "https://www.youtube.com/watch?v=jDfe5NiiZYE",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/d48c35b5bb91.jpg",
       "description": "",
-      "publishedAt": "9 months ago",
+      "publishedAt": "9mo ago",
       "isNew": false,
       "firstSeen": "2026-05-15T11:31:32.180Z"
     },
@@ -675,7 +675,7 @@
       "link": "https://www.youtube.com/watch?v=V-cnqaDmReE",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/52cfd0938563.jpg",
       "description": "",
-      "publishedAt": "9 months ago",
+      "publishedAt": "9mo ago",
       "isNew": false,
       "firstSeen": "2026-05-15T11:49:11.044Z"
     },
