@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-02T22:29:06.635Z",
+  "generatedAt": "2026-06-03T04:47:18.595Z",
   "totalSongs": 200,
   "totalTranscribed": 0,
   "songs": [
@@ -25,7 +25,7 @@
       "link": "https://www.youtube.com/watch?v=aLIitRRHt0w",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/c126c95466b6.jpg",
       "description": "",
-      "publishedAt": "1 year ago",
+      "publishedAt": "1y ago",
       "isNew": false,
       "firstSeen": "2026-05-15T11:31:32.180Z"
     },
@@ -64,7 +64,7 @@
       "link": "https://www.youtube.com/watch?v=1h6dIEQMz3s",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/1322b510b889.jpg",
       "description": "",
-      "publishedAt": "2 years ago",
+      "publishedAt": "2y ago",
       "isNew": false,
       "firstSeen": "2026-05-15T11:31:32.180Z"
     },
@@ -77,7 +77,7 @@
       "link": "https://www.youtube.com/watch?v=EgcO3DBxAs0",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/6fad806ec5f4.jpg",
       "description": "",
-      "publishedAt": "10mo ago",
+      "publishedAt": "10 months ago",
       "isNew": false,
       "firstSeen": "2026-05-15T11:31:32.180Z"
     },
@@ -103,7 +103,7 @@
       "link": "https://www.youtube.com/watch?v=A5JsQIZfroQ",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/9a2361e30bd0.jpg",
       "description": "",
-      "publishedAt": "2mo ago",
+      "publishedAt": "2 months ago",
       "isNew": false,
       "firstSeen": "2026-05-15T11:31:32.180Z"
     },
@@ -1736,13 +1736,13 @@
       "id": "290b6c04511f",
       "videoId": "Xh8J2YQUb_E",
       "title": "Eitan Katz - Ki Karov  | Live in Jerusalem 2 | איתן כ״ץ - כי קרוב",
-      "artist": "איתן כץ",
+      "artist": "שלמה ידגר",
       "channel": "Eitan Katz",
       "link": "https://www.youtube.com/watch?v=Xh8J2YQUb_E",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/290b6c04511f.jpg",
       "description": "",
       "publishedAt": "6 years ago",
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-05-15T12:04:01.501Z"
     },
     {
