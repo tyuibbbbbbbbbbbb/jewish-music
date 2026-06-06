@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-05T04:16:18.138Z",
+  "generatedAt": "2026-06-06T14:00:45.124Z",
   "totalSongs": 200,
   "totalTranscribed": 0,
   "songs": [
@@ -7,7 +7,7 @@
       "id": "694cef3e5bf9",
       "videoId": "oc--CmZpyno",
       "title": "Nissim Black,  - \"P.U.R.I.M\" (Official Music Video)",
-      "artist": "ניסים בלאק",
+      "artist": "Nissim Black",
       "channel": "Nissim Black",
       "link": "https://www.youtube.com/watch?v=oc--CmZpyno",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/694cef3e5bf9.jpg",
@@ -1801,13 +1801,13 @@
       "id": "4bc7c54c405f",
       "videoId": "A11N7AQd77U",
       "title": "Baruch Levine & Shmueli Ungar: Zeh Hakatan | ברוך לוין ושמילי אונגר: זה הקטן (Official Music Video)",
-      "artist": "ברוך לוין",
+      "artist": "שמואל ברונר",
       "channel": "Baruch Levine Official ברוך לוין",
       "link": "https://www.youtube.com/watch?v=A11N7AQd77U",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/4bc7c54c405f.jpg",
       "description": "",
       "publishedAt": "3 years ago",
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-05-15T12:04:01.501Z"
     },
     {
@@ -2100,13 +2100,13 @@
       "id": "bf22743236cb",
       "videoId": "OWAshYnj5wk",
       "title": "\"Aleh Katan\" Shimmy Engel feat: Yishai Lapidot - Official Music Video",
-      "artist": "ישי לפידות",
+      "artist": "שימי אנגל",
       "channel": "Shimmy Engel (Shimmy Engel Music)",
       "link": "https://www.youtube.com/watch?v=OWAshYnj5wk",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/bf22743236cb.jpg",
       "description": "",
       "publishedAt": "14 years ago",
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-05-15T12:04:01.501Z"
     },
     {
