@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-18T12:00:36.622Z",
+  "generatedAt": "2026-06-18T22:21:05.799Z",
   "totalSongs": 200,
   "totalTranscribed": 0,
   "songs": [
@@ -26,7 +26,7 @@
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/c126c95466b6.jpg",
       "description": "",
       "publishedAt": "1 year ago",
-      "isNew": false,
+      "isNew": true,
       "firstSeen": "2026-05-15T11:31:32.180Z"
     },
     {
@@ -59,13 +59,13 @@
       "id": "1322b510b889",
       "videoId": "1h6dIEQMz3s",
       "title": "Am Yisrael Chai - (עם ישראל חי (מחרוזת חיזוק - Feat. Benny Friedman (ביחד ננצח video mashup)",
-      "artist": "Benny Friedman",
+      "artist": "חיים ישראל",
       "channel": "Benny Friedman",
       "link": "https://www.youtube.com/watch?v=1h6dIEQMz3s",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/1322b510b889.jpg",
       "description": "",
-      "publishedAt": "2y ago",
-      "isNew": false,
+      "publishedAt": "2 years ago",
+      "isNew": true,
       "firstSeen": "2026-05-15T11:31:32.180Z"
     },
     {
@@ -78,7 +78,7 @@
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/6fad806ec5f4.jpg",
       "description": "",
       "publishedAt": "11 months ago",
-      "isNew": false,
+      "isNew": true,
       "firstSeen": "2026-05-15T11:31:32.180Z"
     },
     {
@@ -104,7 +104,7 @@
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/9a2361e30bd0.jpg",
       "description": "",
       "publishedAt": "3 months ago",
-      "isNew": false,
+      "isNew": true,
       "firstSeen": "2026-05-15T11:31:32.180Z"
     },
     {
@@ -644,7 +644,7 @@
       "id": "b661e9dd7a17",
       "videoId": "_uoKdtOcw0E",
       "title": "AiCapella 2026 Volume 1 | OFFICIAL SEFIRA MIX",
-      "artist": "NWAI",
+      "artist": "Jewish Music AI",
       "channel": "NWAI",
       "link": "https://www.youtube.com/watch?v=_uoKdtOcw0E",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/b661e9dd7a17.jpg",
