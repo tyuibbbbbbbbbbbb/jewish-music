@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-19T12:16:18.460Z",
+  "generatedAt": "2026-06-19T18:07:27.153Z",
   "totalSongs": 200,
   "totalTranscribed": 0,
   "songs": [
@@ -59,13 +59,13 @@
       "id": "1322b510b889",
       "videoId": "1h6dIEQMz3s",
       "title": "Am Yisrael Chai - (עם ישראל חי (מחרוזת חיזוק - Feat. Benny Friedman (ביחד ננצח video mashup)",
-      "artist": "חיים ישראל",
+      "artist": "Benny Friedman",
       "channel": "Benny Friedman",
       "link": "https://www.youtube.com/watch?v=1h6dIEQMz3s",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/1322b510b889.jpg",
       "description": "",
       "publishedAt": "2 years ago",
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-05-15T11:31:32.180Z"
     },
     {
@@ -130,7 +130,7 @@
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/316ffebdc400.jpg",
       "description": "",
       "publishedAt": "3 years ago",
-      "isNew": false,
+      "isNew": true,
       "firstSeen": "2026-05-15T11:31:32.180Z"
     },
     {
