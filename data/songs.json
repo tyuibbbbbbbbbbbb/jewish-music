@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-06-23T08:00:00.450Z",
+  "generatedAt": "2026-06-23T11:26:45.826Z",
   "totalSongs": 200,
   "totalTranscribed": 0,
   "songs": [
@@ -12,8 +12,8 @@
       "link": "https://www.youtube.com/watch?v=oc--CmZpyno",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/694cef3e5bf9.jpg",
       "description": "",
-      "publishedAt": "3mo ago",
-      "isNew": false,
+      "publishedAt": "3 months ago",
+      "isNew": true,
       "firstSeen": "2026-05-15T11:31:32.180Z"
     },
     {
@@ -85,7 +85,7 @@
       "id": "34afd5503445",
       "videoId": "E01BBtVXHWA",
       "title": "ישי ריבו - הנשמה לא meta",
-      "artist": "ישי ריבו | Ishay Ribo",
+      "artist": "ישי ריבו",
       "channel": "ישי ריבו | Ishay Ribo",
       "link": "https://www.youtube.com/watch?v=E01BBtVXHWA",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/34afd5503445.jpg",
