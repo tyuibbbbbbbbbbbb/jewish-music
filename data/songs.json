@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-18T20:59:30.256Z",
+  "generatedAt": "2026-07-19T09:59:42.603Z",
   "totalSongs": 200,
   "totalTranscribed": 0,
   "songs": [
@@ -1742,7 +1742,7 @@
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/290b6c04511f.jpg",
       "description": "",
       "publishedAt": "6 years ago",
-      "isNew": false,
+      "isNew": true,
       "firstSeen": "2026-05-15T12:04:01.501Z"
     },
     {
@@ -1755,7 +1755,7 @@
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/2ee76d020f84.jpg",
       "description": "",
       "publishedAt": "12 years ago",
-      "isNew": false,
+      "isNew": true,
       "firstSeen": "2026-05-15T12:04:01.501Z"
     },
     {
@@ -1801,13 +1801,13 @@
       "id": "4bc7c54c405f",
       "videoId": "A11N7AQd77U",
       "title": "Baruch Levine & Shmueli Ungar: Zeh Hakatan | ברוך לוין ושמילי אונגר: זה הקטן (Official Music Video)",
-      "artist": "שמואל ברונר",
+      "artist": "ברוך לוין",
       "channel": "Baruch Levine Official ברוך לוין",
       "link": "https://www.youtube.com/watch?v=A11N7AQd77U",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/4bc7c54c405f.jpg",
       "description": "",
       "publishedAt": "3 years ago",
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-05-15T12:04:01.501Z"
     },
     {
@@ -1820,7 +1820,7 @@
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/9d57140b83b2.jpg",
       "description": "",
       "publishedAt": "2 years ago",
-      "isNew": false,
+      "isNew": true,
       "firstSeen": "2026-05-15T12:04:01.501Z"
     },
     {
@@ -1937,7 +1937,7 @@
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/e3c8399fb2b9.jpg",
       "description": "",
       "publishedAt": "3 years ago",
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-05-15T12:04:01.501Z"
     },
     {
@@ -1950,7 +1950,7 @@
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/9659dfe95606.jpg",
       "description": "",
       "publishedAt": "12 years ago",
-      "isNew": false,
+      "isNew": true,
       "firstSeen": "2026-05-15T12:04:01.501Z"
     },
     {
@@ -2002,7 +2002,7 @@
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/4c71fa76d366.jpg",
       "description": "",
       "publishedAt": "3 months ago",
-      "isNew": false,
+      "isNew": true,
       "firstSeen": "2026-05-15T12:04:01.501Z"
     },
     {
@@ -2023,7 +2023,7 @@
       "videoId": "BCSR88HF_OA",
       "title": "הורני ה'",
       "artist": "ביני לנדאו",
-      "channel": "Release - Topic",
+      "channel": "Bini Landau",
       "link": "https://www.youtube.com/watch?v=BCSR88HF_OA",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/257c9a2b835f.jpg",
       "description": "",
@@ -2040,8 +2040,8 @@
       "link": "https://www.youtube.com/watch?v=YUKNzgJT1VI",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/222297434484.jpg",
       "description": "",
-      "publishedAt": "7 months ago",
-      "isNew": true,
+      "publishedAt": "8 months ago",
+      "isNew": false,
       "firstSeen": "2026-05-15T12:04:01.501Z"
     },
     {
@@ -2100,7 +2100,7 @@
       "id": "bf22743236cb",
       "videoId": "OWAshYnj5wk",
       "title": "\"Aleh Katan\" Shimmy Engel feat: Yishai Lapidot - Official Music Video",
-      "artist": "שימי אנגל",
+      "artist": "ישי לפידות",
       "channel": "Shimmy Engel (Shimmy Engel Music)",
       "link": "https://www.youtube.com/watch?v=OWAshYnj5wk",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/bf22743236cb.jpg",
