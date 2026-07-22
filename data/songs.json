@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T06:37:23.108Z",
+  "generatedAt": "2026-07-22T10:36:59.839Z",
   "totalSongs": 200,
   "totalTranscribed": 0,
   "songs": [
@@ -155,8 +155,8 @@
       "link": "https://www.youtube.com/watch?v=UxANRMspilI",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/c0c5d499bb4c.jpg",
       "description": "",
-      "publishedAt": "1y ago",
-      "isNew": true,
+      "publishedAt": "1 year ago",
+      "isNew": false,
       "firstSeen": "2026-05-15T11:31:32.181Z"
     },
     {
@@ -168,8 +168,8 @@
       "link": "https://www.youtube.com/watch?v=k5ZtZEtDEGo",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/45afb0a4a7f9.jpg",
       "description": "",
-      "publishedAt": "4y ago",
-      "isNew": true,
+      "publishedAt": "4 years ago",
+      "isNew": false,
       "firstSeen": "2026-05-15T11:31:32.181Z"
     },
     {
@@ -181,8 +181,8 @@
       "link": "https://www.youtube.com/watch?v=MW_5jZ67z9E",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/3203bc5a4c24.jpg",
       "description": "",
-      "publishedAt": "2y ago",
-      "isNew": true,
+      "publishedAt": "3 years ago",
+      "isNew": false,
       "firstSeen": "2026-05-15T11:31:32.181Z"
     },
     {
@@ -208,20 +208,20 @@
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/f871366bac31.jpg",
       "description": "",
       "publishedAt": "1 year ago",
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-05-15T11:31:32.181Z"
     },
     {
       "id": "6d9b9c99c76d",
       "videoId": "5j4zyNnqtQY",
       "title": "Itzik Dadya - Bayit Shel Shalom | איציק דדיה - בית של שלום (Official Music Video)",
-      "artist": "איציק דדיה - הערוץ הרשמי - Itzik Dadya - Official",
+      "artist": "איציק דדיה",
       "channel": "איציק דדיה - הערוץ הרשמי - Itzik Dadya - Official",
       "link": "https://www.youtube.com/watch?v=5j4zyNnqtQY",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/6d9b9c99c76d.jpg",
       "description": "",
-      "publishedAt": "1y ago",
-      "isNew": true,
+      "publishedAt": "1 year ago",
+      "isNew": false,
       "firstSeen": "2026-05-15T11:31:32.181Z"
     },
     {
@@ -234,7 +234,7 @@
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/6f84fb99e469.jpg",
       "description": "",
       "publishedAt": "1 year ago",
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-05-15T11:31:32.181Z"
     },
     {
@@ -260,7 +260,7 @@
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/96c4f2c4b4fd.jpg",
       "description": "",
       "publishedAt": "9 years ago",
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-05-15T11:31:32.181Z"
     },
     {
@@ -273,7 +273,7 @@
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/9476c447c2df.jpg",
       "description": "",
       "publishedAt": "8 years ago",
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-05-15T11:31:32.181Z"
     },
     {
@@ -312,7 +312,7 @@
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/6549fa0cdc40.jpg",
       "description": "",
       "publishedAt": "13 years ago",
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-05-15T11:31:32.181Z"
     },
     {
@@ -1482,7 +1482,7 @@
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/77b70bf3f95e.jpg",
       "description": "",
       "publishedAt": "13 years ago",
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-05-15T11:57:06.846Z"
     },
     {
@@ -1521,7 +1521,7 @@
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/1d5529303327.jpg",
       "description": "",
       "publishedAt": "11 years ago",
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-05-15T11:57:06.846Z"
     },
     {
