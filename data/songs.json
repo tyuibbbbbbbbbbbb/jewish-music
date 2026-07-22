@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-22T14:09:51.482Z",
+  "generatedAt": "2026-07-22T17:29:02.243Z",
   "totalSongs": 200,
   "totalTranscribed": 0,
   "songs": [
@@ -20,7 +20,7 @@
       "id": "c126c95466b6",
       "videoId": "aLIitRRHt0w",
       "title": "Avraham Fried's Hebrew Hits | Freilach Band, Fried, Dadya, Benny, Daskal & Yedidim",
-      "artist": "אברהם פריד",
+      "artist": "Freilach Band",
       "channel": "Freilach Band",
       "link": "https://www.youtube.com/watch?v=aLIitRRHt0w",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/c126c95466b6.jpg",
@@ -819,7 +819,7 @@
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/cef6bd8814d0.jpg",
       "description": "",
       "publishedAt": "4 years ago",
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-05-15T11:49:11.044Z"
     },
     {
@@ -858,7 +858,7 @@
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/4f6199846bb6.jpg",
       "description": "",
       "publishedAt": "5 years ago",
-      "isNew": false,
+      "isNew": true,
       "firstSeen": "2026-05-15T11:49:11.044Z"
     },
     {
@@ -910,7 +910,7 @@
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/9cb731508d4f.jpg",
       "description": "",
       "publishedAt": "11 years ago",
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-05-15T11:49:11.044Z"
     },
     {
@@ -949,7 +949,7 @@
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/9418aeeec24e.jpg",
       "description": "",
       "publishedAt": "16 years ago",
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-05-15T11:49:11.044Z"
     },
     {
@@ -1091,7 +1091,7 @@
       "link": "https://www.youtube.com/watch?v=VXj2neurWrU",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/734d553fcb10.jpg",
       "description": "",
-      "publishedAt": "13y ago",
+      "publishedAt": "13 years ago",
       "isNew": false,
       "firstSeen": "2026-05-15T11:49:11.044Z"
     },
@@ -1104,8 +1104,8 @@
       "link": "https://www.youtube.com/watch?v=R2BwMTfn68k",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/0db999463ee9.jpg",
       "description": "",
-      "publishedAt": "4mo ago",
-      "isNew": true,
+      "publishedAt": "4 months ago",
+      "isNew": false,
       "firstSeen": "2026-05-15T11:49:11.044Z"
     },
     {
@@ -1117,8 +1117,8 @@
       "link": "https://www.youtube.com/watch?v=ASM3VUL5NFI",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/bcd3c61e4ba8.jpg",
       "description": "",
-      "publishedAt": "13y ago",
-      "isNew": false,
+      "publishedAt": "13 years ago",
+      "isNew": true,
       "firstSeen": "2026-05-15T11:49:11.044Z"
     },
     {
@@ -1144,7 +1144,7 @@
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/aad27790049d.jpg",
       "description": "",
       "publishedAt": "2 years ago",
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-05-15T11:49:11.044Z"
     },
     {
@@ -1157,7 +1157,7 @@
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/8f56be9605f1.jpg",
       "description": "",
       "publishedAt": "10 months ago",
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-05-15T11:49:11.044Z"
     },
     {
