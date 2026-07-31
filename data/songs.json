@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-31T03:30:18.775Z",
+  "generatedAt": "2026-07-31T10:47:34.286Z",
   "totalSongs": 200,
   "totalTranscribed": 0,
   "songs": [
@@ -358,13 +358,13 @@
       "id": "6173bade4798",
       "videoId": "bSHR2f279PA",
       "title": "Shloime Daskal - Shir Hashalom - Song of Peace - A Team Orchestra - Lev Choir",
-      "artist": "יעקב יהודה דסקל",
+      "artist": "A Team Orchestra",
       "channel": "A Team Orchestra",
       "link": "https://www.youtube.com/watch?v=bSHR2f279PA",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/6173bade4798.jpg",
       "description": "",
       "publishedAt": "8 years ago",
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-05-15T11:31:32.181Z"
     },
     {
