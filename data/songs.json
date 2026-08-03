@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-02T21:10:28.234Z",
+  "generatedAt": "2026-08-03T11:34:38.194Z",
   "totalSongs": 200,
   "totalTranscribed": 0,
   "songs": [
@@ -25,7 +25,7 @@
       "link": "https://www.youtube.com/watch?v=aLIitRRHt0w",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/c126c95466b6.jpg",
       "description": "",
-      "publishedAt": "2 years ago",
+      "publishedAt": "2y ago",
       "isNew": false,
       "firstSeen": "2026-05-15T11:31:32.180Z"
     },
@@ -38,7 +38,7 @@
       "link": "https://www.youtube.com/watch?v=EEhZEUWNK3Y",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/756a07fec21e.jpg",
       "description": "",
-      "publishedAt": "1 year ago",
+      "publishedAt": "1y ago",
       "isNew": false,
       "firstSeen": "2026-05-15T11:31:32.180Z"
     },
@@ -220,7 +220,7 @@
       "link": "https://www.youtube.com/watch?v=5j4zyNnqtQY",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/6d9b9c99c76d.jpg",
       "description": "",
-      "publishedAt": "1y ago",
+      "publishedAt": "1 year ago",
       "isNew": false,
       "firstSeen": "2026-05-15T11:31:32.181Z"
     },
@@ -649,7 +649,7 @@
       "link": "https://www.youtube.com/watch?v=_uoKdtOcw0E",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/b661e9dd7a17.jpg",
       "description": "",
-      "publishedAt": "3 months ago",
+      "publishedAt": "3mo ago",
       "isNew": false,
       "firstSeen": "2026-05-15T11:49:11.044Z"
     },
@@ -675,7 +675,7 @@
       "link": "https://www.youtube.com/watch?v=V-cnqaDmReE",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/52cfd0938563.jpg",
       "description": "",
-      "publishedAt": "11mo ago",
+      "publishedAt": "11 months ago",
       "isNew": false,
       "firstSeen": "2026-05-15T11:49:11.044Z"
     },
