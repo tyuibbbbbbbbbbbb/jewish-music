@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-04T06:36:14.263Z",
+  "generatedAt": "2026-08-04T10:50:52.944Z",
   "totalSongs": 200,
   "totalTranscribed": 0,
   "songs": [
@@ -7,7 +7,7 @@
       "id": "694cef3e5bf9",
       "videoId": "oc--CmZpyno",
       "title": "Nissim Black,  - \"P.U.R.I.M\" (Official Music Video)",
-      "artist": "Nissim Black",
+      "artist": "ניסים בלאק",
       "channel": "Nissim Black",
       "link": "https://www.youtube.com/watch?v=oc--CmZpyno",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/694cef3e5bf9.jpg",
@@ -116,7 +116,7 @@
       "link": "https://www.youtube.com/watch?v=jDfe5NiiZYE",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/d48c35b5bb91.jpg",
       "description": "",
-      "publishedAt": "11 months ago",
+      "publishedAt": "1 year ago",
       "isNew": false,
       "firstSeen": "2026-05-15T11:31:32.180Z"
     },
