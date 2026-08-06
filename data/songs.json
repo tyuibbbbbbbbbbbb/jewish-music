@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-05T17:48:34.173Z",
+  "generatedAt": "2026-08-06T06:39:33.918Z",
   "totalSongs": 200,
   "totalTranscribed": 0,
   "songs": [
@@ -7,7 +7,7 @@
       "id": "694cef3e5bf9",
       "videoId": "oc--CmZpyno",
       "title": "Nissim Black,  - \"P.U.R.I.M\" (Official Music Video)",
-      "artist": "ניסים בלאק",
+      "artist": "Nissim Black",
       "channel": "Nissim Black",
       "link": "https://www.youtube.com/watch?v=oc--CmZpyno",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/694cef3e5bf9.jpg",
@@ -98,7 +98,7 @@
       "id": "9a2361e30bd0",
       "videoId": "A5JsQIZfroQ",
       "title": "איציק דדיה - יצר טוב | Itzik Dadya - Yetzer Tov (Prod. By Avrumi Sternfeld)",
-      "artist": "איציק דדיה",
+      "artist": "איציק דדיה - הערוץ הרשמי - Itzik Dadya - Official",
       "channel": "איציק דדיה - הערוץ הרשמי - Itzik Dadya - Official",
       "link": "https://www.youtube.com/watch?v=A5JsQIZfroQ",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/9a2361e30bd0.jpg",
@@ -623,8 +623,8 @@
       "link": "https://www.youtube.com/watch?v=zB9Em5ACtAA",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/69e5b366a790.jpg",
       "description": "",
-      "publishedAt": "10y ago",
-      "isNew": false,
+      "publishedAt": "10 years ago",
+      "isNew": true,
       "firstSeen": "2026-05-15T11:31:32.181Z"
     },
     {
