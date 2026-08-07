@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-07T09:08:12.032Z",
+  "generatedAt": "2026-08-07T13:17:32.200Z",
   "totalSongs": 200,
   "totalTranscribed": 0,
   "songs": [
@@ -215,13 +215,13 @@
       "id": "6d9b9c99c76d",
       "videoId": "5j4zyNnqtQY",
       "title": "Itzik Dadya - Bayit Shel Shalom | איציק דדיה - בית של שלום (Official Music Video)",
-      "artist": "איציק דדיה",
+      "artist": "איציק דדיה - הערוץ הרשמי - Itzik Dadya - Official",
       "channel": "איציק דדיה - הערוץ הרשמי - Itzik Dadya - Official",
       "link": "https://www.youtube.com/watch?v=5j4zyNnqtQY",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/6d9b9c99c76d.jpg",
       "description": "",
       "publishedAt": "1 year ago",
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-05-15T11:31:32.181Z"
     },
     {
@@ -2353,7 +2353,7 @@
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/749e5bc48307.jpg",
       "description": "",
       "publishedAt": "8 years ago",
-      "isNew": false,
+      "isNew": true,
       "firstSeen": "2026-05-15T14:24:43.322Z"
     },
     {
@@ -2379,7 +2379,7 @@
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/5c953188d9b8.jpg",
       "description": "",
       "publishedAt": "4 years ago",
-      "isNew": false,
+      "isNew": true,
       "firstSeen": "2026-05-15T14:24:43.322Z"
     },
     {
@@ -2522,7 +2522,7 @@
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/1233e1af2542.jpg",
       "description": "",
       "publishedAt": "1 year ago",
-      "isNew": false,
+      "isNew": true,
       "firstSeen": "2026-05-15T14:24:43.322Z"
     },
     {
@@ -2535,7 +2535,7 @@
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/506a98bbaaa4.jpg",
       "description": "",
       "publishedAt": "11 months ago",
-      "isNew": false,
+      "isNew": true,
       "firstSeen": "2026-05-15T14:24:43.322Z"
     },
     {
