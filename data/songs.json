@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-12T09:20:20.530Z",
+  "generatedAt": "2026-08-12T13:23:24.829Z",
   "totalSongs": 200,
   "totalTranscribed": 0,
   "songs": [
@@ -7,12 +7,12 @@
       "id": "694cef3e5bf9",
       "videoId": "oc--CmZpyno",
       "title": "Nissim Black,  - \"P.U.R.I.M\" (Official Music Video)",
-      "artist": "ניסים בלאק",
+      "artist": "Nissim Black",
       "channel": "Nissim Black",
       "link": "https://www.youtube.com/watch?v=oc--CmZpyno",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/694cef3e5bf9.jpg",
       "description": "",
-      "publishedAt": "5 months ago",
+      "publishedAt": "5mo ago",
       "isNew": false,
       "firstSeen": "2026-05-15T11:31:32.180Z"
     },
@@ -38,7 +38,7 @@
       "link": "https://www.youtube.com/watch?v=EEhZEUWNK3Y",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/756a07fec21e.jpg",
       "description": "",
-      "publishedAt": "1 year ago",
+      "publishedAt": "1y ago",
       "isNew": false,
       "firstSeen": "2026-05-15T11:31:32.180Z"
     },
@@ -78,7 +78,7 @@
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/6fad806ec5f4.jpg",
       "description": "",
       "publishedAt": "1 year ago",
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-05-15T11:31:32.180Z"
     },
     {
@@ -649,7 +649,7 @@
       "link": "https://www.youtube.com/watch?v=_uoKdtOcw0E",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/b661e9dd7a17.jpg",
       "description": "",
-      "publishedAt": "3 months ago",
+      "publishedAt": "3mo ago",
       "isNew": false,
       "firstSeen": "2026-05-15T11:49:11.044Z"
     },
