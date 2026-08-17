@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-17T08:52:50.448Z",
+  "generatedAt": "2026-08-17T12:55:47.676Z",
   "totalSongs": 200,
   "totalTranscribed": 0,
   "songs": [
@@ -13,7 +13,7 @@
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/694cef3e5bf9.jpg",
       "description": "",
       "publishedAt": "5 months ago",
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-05-15T11:31:32.180Z"
     },
     {
@@ -345,13 +345,13 @@
       "id": "e672be6be512",
       "videoId": "S6xajIg4gIo",
       "title": "Shloime Daskal - A Hartzig Yomim Noraim Medley  - A Team - Lev Choir",
-      "artist": "יעקב יהודה דסקל",
+      "artist": "שלמה ידגר",
       "channel": "A Team Orchestra",
       "link": "https://www.youtube.com/watch?v=S6xajIg4gIo",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/e672be6be512.jpg",
       "description": "",
       "publishedAt": "9 years ago",
-      "isNew": false,
+      "isNew": true,
       "firstSeen": "2026-05-15T11:31:32.181Z"
     },
     {
