@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-19T04:45:23.065Z",
+  "generatedAt": "2026-08-19T12:58:27.121Z",
   "totalSongs": 200,
   "totalTranscribed": 0,
   "songs": [
@@ -215,7 +215,7 @@
       "id": "6d9b9c99c76d",
       "videoId": "5j4zyNnqtQY",
       "title": "Itzik Dadya - Bayit Shel Shalom | איציק דדיה - בית של שלום (Official Music Video)",
-      "artist": "איציק דדיה - הערוץ הרשמי - Itzik Dadya - Official",
+      "artist": "איציק דדיה",
       "channel": "איציק דדיה - הערוץ הרשמי - Itzik Dadya - Official",
       "link": "https://www.youtube.com/watch?v=5j4zyNnqtQY",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/6d9b9c99c76d.jpg",
@@ -259,7 +259,7 @@
       "link": "https://www.youtube.com/watch?v=0mrBUno5aBE",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/96c4f2c4b4fd.jpg",
       "description": "",
-      "publishedAt": "9 years ago",
+      "publishedAt": "9y ago",
       "isNew": false,
       "firstSeen": "2026-05-15T11:31:32.181Z"
     },
@@ -272,7 +272,7 @@
       "link": "https://www.youtube.com/watch?v=EkXvrnn2YJ4",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/9476c447c2df.jpg",
       "description": "",
-      "publishedAt": "8 years ago",
+      "publishedAt": "8y ago",
       "isNew": false,
       "firstSeen": "2026-05-15T11:31:32.181Z"
     },
@@ -325,7 +325,7 @@
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/864fe55fc806.jpg",
       "description": "",
       "publishedAt": "9 months ago",
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-05-15T11:31:32.181Z"
     },
     {
@@ -403,7 +403,7 @@
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/17adaf32ff7d.jpg",
       "description": "",
       "publishedAt": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-05-15T11:31:32.181Z"
     },
     {
@@ -429,7 +429,7 @@
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/0c25ce7c8b5e.jpg",
       "description": "",
       "publishedAt": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-05-15T11:31:32.181Z"
     },
     {
@@ -1508,7 +1508,7 @@
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/6c8ebc5243e6.jpg",
       "description": "",
       "publishedAt": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeen": "2026-05-15T11:57:06.846Z"
     },
     {
