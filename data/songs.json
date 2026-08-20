@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-20T04:45:09.606Z",
+  "generatedAt": "2026-08-20T08:48:08.099Z",
   "totalSongs": 200,
   "totalTranscribed": 0,
   "songs": [
@@ -2548,7 +2548,7 @@
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/35dd35189b34.jpg",
       "description": "",
       "publishedAt": "2 years ago",
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-05-15T14:24:43.322Z"
     },
     {
@@ -2574,7 +2574,7 @@
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/f04ec312aaa5.jpg",
       "description": "",
       "publishedAt": "4 years ago",
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-05-15T14:24:43.322Z"
     },
     {
