@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-26T08:53:56.523Z",
+  "generatedAt": "2026-08-26T13:04:25.634Z",
   "totalSongs": 200,
   "totalTranscribed": 0,
   "songs": [
@@ -215,13 +215,13 @@
       "id": "6d9b9c99c76d",
       "videoId": "5j4zyNnqtQY",
       "title": "Itzik Dadya - Bayit Shel Shalom | איציק דדיה - בית של שלום (Official Music Video)",
-      "artist": "איציק דדיה",
+      "artist": "איציק דדיה - הערוץ הרשמי - Itzik Dadya - Official",
       "channel": "איציק דדיה - הערוץ הרשמי - Itzik Dadya - Official",
       "link": "https://www.youtube.com/watch?v=5j4zyNnqtQY",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/6d9b9c99c76d.jpg",
       "description": "",
       "publishedAt": "1 year ago",
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-05-15T11:31:32.181Z"
     },
     {
@@ -351,7 +351,7 @@
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/e672be6be512.jpg",
       "description": "",
       "publishedAt": "9 years ago",
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-05-15T11:31:32.181Z"
     },
     {
@@ -1801,7 +1801,7 @@
       "id": "4bc7c54c405f",
       "videoId": "A11N7AQd77U",
       "title": "Baruch Levine & Shmueli Ungar: Zeh Hakatan | ברוך לוין ושמילי אונגר: זה הקטן (Official Music Video)",
-      "artist": "ברוך לוין",
+      "artist": "שלמה ידגר",
       "channel": "Baruch Levine Official ברוך לוין",
       "link": "https://www.youtube.com/watch?v=A11N7AQd77U",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/4bc7c54c405f.jpg",
