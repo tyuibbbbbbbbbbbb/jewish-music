@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T04:45:37.788Z",
+  "generatedAt": "2026-08-30T13:45:50.431Z",
   "totalSongs": 200,
   "totalTranscribed": 0,
   "songs": [
@@ -358,13 +358,13 @@
       "id": "6173bade4798",
       "videoId": "bSHR2f279PA",
       "title": "Shloime Daskal - Shir Hashalom - Song of Peace - A Team Orchestra - Lev Choir",
-      "artist": "A Team Orchestra",
+      "artist": "יעקב יהודה דסקל",
       "channel": "A Team Orchestra",
       "link": "https://www.youtube.com/watch?v=bSHR2f279PA",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/6173bade4798.jpg",
       "description": "",
       "publishedAt": "8 years ago",
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-05-15T11:31:32.181Z"
     },
     {
@@ -377,7 +377,7 @@
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/c237fd1f04e3.jpg",
       "description": "",
       "publishedAt": "2 years ago",
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-05-15T11:31:32.181Z"
     },
     {
@@ -389,8 +389,8 @@
       "link": "https://www.youtube.com/watch?v=H3jcGLg6jZA",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/8814e2ccc7c2.jpg",
       "description": "",
-      "publishedAt": "1 year ago",
-      "isNew": true,
+      "publishedAt": "1y ago",
+      "isNew": false,
       "firstSeen": "2026-05-15T11:31:32.181Z"
     },
     {
@@ -480,7 +480,7 @@
       "link": "https://www.youtube.com/watch?v=d6oS6tqA1hY",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/7ec348ac1bf5.jpg",
       "description": "",
-      "publishedAt": "1 year ago",
+      "publishedAt": "1y ago",
       "isNew": false,
       "firstSeen": "2026-05-15T11:31:32.181Z"
     },
@@ -624,7 +624,7 @@
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/69e5b366a790.jpg",
       "description": "",
       "publishedAt": "10 years ago",
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-05-15T11:31:32.181Z"
     },
     {
@@ -650,7 +650,7 @@
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/b661e9dd7a17.jpg",
       "description": "",
       "publishedAt": "4 months ago",
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-05-15T11:49:11.044Z"
     },
     {
@@ -676,7 +676,7 @@
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/52cfd0938563.jpg",
       "description": "",
       "publishedAt": "1 year ago",
-      "isNew": false,
+      "isNew": true,
       "firstSeen": "2026-05-15T11:49:11.044Z"
     },
     {
