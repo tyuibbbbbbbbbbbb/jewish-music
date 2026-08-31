@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-30T22:39:26.790Z",
+  "generatedAt": "2026-08-31T04:46:35.259Z",
   "totalSongs": 200,
   "totalTranscribed": 0,
   "songs": [
@@ -676,7 +676,7 @@
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/52cfd0938563.jpg",
       "description": "",
       "publishedAt": "1 year ago",
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-05-15T11:49:11.044Z"
     },
     {
@@ -1391,7 +1391,7 @@
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/f1617f5f5f05.jpg",
       "description": "",
       "publishedAt": "16 years ago",
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-05-15T11:57:06.846Z"
     },
     {
@@ -1404,7 +1404,7 @@
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/7a00aa06cb4d.jpg",
       "description": "",
       "publishedAt": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-05-15T11:57:06.846Z"
     },
     {
@@ -1417,7 +1417,7 @@
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/9cc95d9b94a2.jpg",
       "description": "",
       "publishedAt": "6 years ago",
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-05-15T11:57:06.846Z"
     },
     {
@@ -1430,7 +1430,7 @@
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/732bf5826a1f.jpg",
       "description": "",
       "publishedAt": "6 years ago",
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-05-15T11:57:06.846Z"
     },
     {
@@ -1469,7 +1469,7 @@
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/7a086a1d8a47.jpg",
       "description": "",
       "publishedAt": "11 years ago",
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-05-15T11:57:06.846Z"
     },
     {
@@ -1560,7 +1560,7 @@
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/56b2c0280d8e.jpg",
       "description": "",
       "publishedAt": "8 years ago",
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-05-15T11:57:06.846Z"
     },
     {
@@ -1573,7 +1573,7 @@
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/0030569a5d64.jpg",
       "description": "",
       "publishedAt": "7 months ago",
-      "isNew": false,
+      "isNew": true,
       "firstSeen": "2026-05-15T11:57:06.846Z"
     },
     {
@@ -1742,7 +1742,7 @@
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/290b6c04511f.jpg",
       "description": "",
       "publishedAt": "6 years ago",
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-05-15T12:04:01.501Z"
     },
     {
@@ -1755,7 +1755,7 @@
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/2ee76d020f84.jpg",
       "description": "",
       "publishedAt": "12 years ago",
-      "isNew": false,
+      "isNew": true,
       "firstSeen": "2026-05-15T12:04:01.501Z"
     },
     {
@@ -1801,12 +1801,12 @@
       "id": "4bc7c54c405f",
       "videoId": "A11N7AQd77U",
       "title": "Baruch Levine & Shmueli Ungar: Zeh Hakatan | ברוך לוין ושמילי אונגר: זה הקטן (Official Music Video)",
-      "artist": "שלמה ידגר",
+      "artist": "ברוך לוין",
       "channel": "Baruch Levine Official ברוך לוין",
       "link": "https://www.youtube.com/watch?v=A11N7AQd77U",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/4bc7c54c405f.jpg",
       "description": "",
-      "publishedAt": "3 years ago",
+      "publishedAt": "3y ago",
       "isNew": false,
       "firstSeen": "2026-05-15T12:04:01.501Z"
     },
@@ -1819,8 +1819,8 @@
       "link": "https://www.youtube.com/watch?v=YTlv0w-GYok",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/9d57140b83b2.jpg",
       "description": "",
-      "publishedAt": "2 years ago",
-      "isNew": true,
+      "publishedAt": "2y ago",
+      "isNew": false,
       "firstSeen": "2026-05-15T12:04:01.501Z"
     },
     {
