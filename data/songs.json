@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-07T17:40:32.924Z",
+  "generatedAt": "2026-09-07T22:43:41.104Z",
   "totalSongs": 200,
   "totalTranscribed": 0,
   "songs": [
@@ -2067,7 +2067,7 @@
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/9bafe4f0edc5.jpg",
       "description": "",
       "publishedAt": "5 years ago",
-      "isNew": false,
+      "isNew": true,
       "firstSeen": "2026-05-15T12:04:01.501Z"
     },
     {
@@ -2100,7 +2100,7 @@
       "id": "bf22743236cb",
       "videoId": "OWAshYnj5wk",
       "title": "\"Aleh Katan\" Shimmy Engel feat: Yishai Lapidot - Official Music Video",
-      "artist": "שימי אנגל",
+      "artist": "ישי לפידות",
       "channel": "Shimmy Engel (Shimmy Engel Music)",
       "link": "https://www.youtube.com/watch?v=OWAshYnj5wk",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/bf22743236cb.jpg",
@@ -2157,7 +2157,7 @@
       "link": "https://www.youtube.com/watch?v=UWx_S0bWilo",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/fd0f85366410.jpg",
       "description": "",
-      "publishedAt": "4 years ago",
+      "publishedAt": "5 years ago",
       "isNew": false,
       "firstSeen": "2026-05-15T12:04:01.501Z"
     },
@@ -2262,7 +2262,7 @@
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/dc571c26625d.jpg",
       "description": "",
       "publishedAt": "10 years ago",
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-05-15T14:24:43.322Z"
     },
     {
@@ -2365,8 +2365,8 @@
       "link": "https://www.youtube.com/watch?v=LIDWga6O85k",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/6b4c16672a5b.jpg",
       "description": "",
-      "publishedAt": "1 year ago",
-      "isNew": true,
+      "publishedAt": "2 years ago",
+      "isNew": false,
       "firstSeen": "2026-05-15T14:24:43.322Z"
     },
     {
