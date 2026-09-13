@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-13T04:07:30.226Z",
+  "generatedAt": "2026-09-13T13:16:53.033Z",
   "totalSongs": 200,
   "totalTranscribed": 0,
   "songs": [
@@ -98,7 +98,7 @@
       "id": "9a2361e30bd0",
       "videoId": "A5JsQIZfroQ",
       "title": "איציק דדיה - יצר טוב | Itzik Dadya - Yetzer Tov (Prod. By Avrumi Sternfeld)",
-      "artist": "איציק דדיה - הערוץ הרשמי - Itzik Dadya - Official",
+      "artist": "איציק דדיה",
       "channel": "איציק דדיה - הערוץ הרשמי - Itzik Dadya - Official",
       "link": "https://www.youtube.com/watch?v=A5JsQIZfroQ",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/9a2361e30bd0.jpg",
@@ -155,8 +155,8 @@
       "link": "https://www.youtube.com/watch?v=UxANRMspilI",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/c0c5d499bb4c.jpg",
       "description": "",
-      "publishedAt": "1 year ago",
-      "isNew": true,
+      "publishedAt": "1y ago",
+      "isNew": false,
       "firstSeen": "2026-05-15T11:31:32.181Z"
     },
     {
@@ -181,7 +181,7 @@
       "link": "https://www.youtube.com/watch?v=MW_5jZ67z9E",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/3203bc5a4c24.jpg",
       "description": "",
-      "publishedAt": "3 years ago",
+      "publishedAt": "3y ago",
       "isNew": false,
       "firstSeen": "2026-05-15T11:31:32.181Z"
     },
@@ -1481,7 +1481,7 @@
       "link": "https://www.youtube.com/watch?v=JNOdiEclGUk",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/77b70bf3f95e.jpg",
       "description": "",
-      "publishedAt": "13 years ago",
+      "publishedAt": "13y ago",
       "isNew": false,
       "firstSeen": "2026-05-15T11:57:06.846Z"
     },
@@ -1520,7 +1520,7 @@
       "link": "https://www.youtube.com/watch?v=ZuzYPBbpT_0",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/1d5529303327.jpg",
       "description": "",
-      "publishedAt": "11 years ago",
+      "publishedAt": "11y ago",
       "isNew": false,
       "firstSeen": "2026-05-15T11:57:06.846Z"
     },
