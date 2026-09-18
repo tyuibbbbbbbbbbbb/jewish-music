@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T13:17:54.806Z",
+  "generatedAt": "2026-09-18T04:03:02.669Z",
   "totalSongs": 200,
   "totalTranscribed": 0,
   "songs": [
@@ -111,13 +111,13 @@
       "id": "d48c35b5bb91",
       "videoId": "jDfe5NiiZYE",
       "title": "גוף ונשמה - יעקב שוואקי & אמיר דדון | Guf VeNeshama (Live) - Yaakov Shwekey & Amir Dadon",
-      "artist": "Yaakov Shwekey יעקב שוואקי",
+      "artist": "יעקב שוואקי",
       "channel": "Yaakov Shwekey יעקב שוואקי",
       "link": "https://www.youtube.com/watch?v=jDfe5NiiZYE",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/d48c35b5bb91.jpg",
       "description": "",
       "publishedAt": "1 year ago",
-      "isNew": false,
+      "isNew": true,
       "firstSeen": "2026-05-15T11:31:32.180Z"
     },
     {
@@ -129,7 +129,7 @@
       "link": "https://www.youtube.com/watch?v=-wYyIvFFp4g",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/316ffebdc400.jpg",
       "description": "",
-      "publishedAt": "4y ago",
+      "publishedAt": "4 years ago",
       "isNew": false,
       "firstSeen": "2026-05-15T11:31:32.180Z"
     },
@@ -649,7 +649,7 @@
       "link": "https://www.youtube.com/watch?v=_uoKdtOcw0E",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/b661e9dd7a17.jpg",
       "description": "",
-      "publishedAt": "5 months ago",
+      "publishedAt": "5mo ago",
       "isNew": false,
       "firstSeen": "2026-05-15T11:49:11.044Z"
     },
