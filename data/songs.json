@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T19:43:07.846Z",
+  "generatedAt": "2026-09-22T22:53:39.551Z",
   "totalSongs": 200,
   "totalTranscribed": 0,
   "songs": [
@@ -649,7 +649,7 @@
       "link": "https://www.youtube.com/watch?v=_uoKdtOcw0E",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/b661e9dd7a17.jpg",
       "description": "",
-      "publishedAt": "5mo ago",
+      "publishedAt": "5 months ago",
       "isNew": false,
       "firstSeen": "2026-05-15T11:49:11.044Z"
     },
@@ -819,7 +819,7 @@
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/cef6bd8814d0.jpg",
       "description": "",
       "publishedAt": "5 years ago",
-      "isNew": false,
+      "isNew": true,
       "firstSeen": "2026-05-15T11:49:11.044Z"
     },
     {
@@ -949,7 +949,7 @@
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/9418aeeec24e.jpg",
       "description": "",
       "publishedAt": "16 years ago",
-      "isNew": false,
+      "isNew": true,
       "firstSeen": "2026-05-15T11:49:11.044Z"
     },
     {
@@ -1104,8 +1104,8 @@
       "link": "https://www.youtube.com/watch?v=R2BwMTfn68k",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/0db999463ee9.jpg",
       "description": "",
-      "publishedAt": "6 months ago",
-      "isNew": false,
+      "publishedAt": "6mo ago",
+      "isNew": true,
       "firstSeen": "2026-05-15T11:49:11.044Z"
     },
     {
@@ -1117,8 +1117,8 @@
       "link": "https://www.youtube.com/watch?v=ASM3VUL5NFI",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/bcd3c61e4ba8.jpg",
       "description": "",
-      "publishedAt": "13 years ago",
-      "isNew": true,
+      "publishedAt": "13y ago",
+      "isNew": false,
       "firstSeen": "2026-05-15T11:49:11.044Z"
     },
     {
@@ -1143,7 +1143,7 @@
       "link": "https://www.youtube.com/watch?v=LqtEKhxd-XA",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/aad27790049d.jpg",
       "description": "",
-      "publishedAt": "3 years ago",
+      "publishedAt": "3y ago",
       "isNew": false,
       "firstSeen": "2026-05-15T11:49:11.044Z"
     },
@@ -1156,8 +1156,8 @@
       "link": "https://www.youtube.com/watch?v=gQRUBjKnhYc",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/8f56be9605f1.jpg",
       "description": "",
-      "publishedAt": "1 year ago",
-      "isNew": false,
+      "publishedAt": "1y ago",
+      "isNew": true,
       "firstSeen": "2026-05-15T11:49:11.044Z"
     },
     {
@@ -1391,7 +1391,7 @@
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/f1617f5f5f05.jpg",
       "description": "",
       "publishedAt": "16 years ago",
-      "isNew": false,
+      "isNew": true,
       "firstSeen": "2026-05-15T11:57:06.846Z"
     },
     {
@@ -1404,7 +1404,7 @@
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/7a00aa06cb4d.jpg",
       "description": "",
       "publishedAt": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeen": "2026-05-15T11:57:06.846Z"
     },
     {
