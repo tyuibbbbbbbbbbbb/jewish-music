@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T08:27:59.683Z",
+  "generatedAt": "2026-10-17T22:08:04.826Z",
   "totalSongs": 200,
   "totalTranscribed": 0,
   "songs": [
@@ -1572,7 +1572,7 @@
       "link": "https://www.youtube.com/watch?v=46QLk8XfuAI",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/0030569a5d64.jpg",
       "description": "",
-      "publishedAt": "8mo ago",
+      "publishedAt": "9mo ago",
       "isNew": false,
       "firstSeen": "2026-05-15T11:57:06.846Z"
     },
@@ -1801,13 +1801,13 @@
       "id": "4bc7c54c405f",
       "videoId": "A11N7AQd77U",
       "title": "Baruch Levine & Shmueli Ungar: Zeh Hakatan | ברוך לוין ושמילי אונגר: זה הקטן (Official Music Video)",
-      "artist": "שלמה ידגר",
+      "artist": "ברוך לוין",
       "channel": "Baruch Levine Official ברוך לוין",
       "link": "https://www.youtube.com/watch?v=A11N7AQd77U",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/4bc7c54c405f.jpg",
       "description": "",
       "publishedAt": "3y ago",
-      "isNew": false,
+      "isNew": true,
       "firstSeen": "2026-05-15T12:04:01.501Z"
     },
     {
@@ -1858,7 +1858,7 @@
       "link": "https://www.youtube.com/watch?v=QKd3FijOeX4",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/9ddb43dd1b6a.jpg",
       "description": "",
-      "publishedAt": "9 months ago",
+      "publishedAt": "10mo ago",
       "isNew": true,
       "firstSeen": "2026-05-15T12:04:01.501Z"
     },
