@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T05:18:29.880Z",
+  "generatedAt": "2026-11-02T18:06:07.640Z",
   "totalSongs": 200,
   "totalTranscribed": 0,
   "songs": [
@@ -215,7 +215,7 @@
       "id": "6d9b9c99c76d",
       "videoId": "5j4zyNnqtQY",
       "title": "Itzik Dadya - Bayit Shel Shalom | איציק דדיה - בית של שלום (Official Music Video)",
-      "artist": "איציק דדיה",
+      "artist": "איציק דדיה - הערוץ הרשמי - Itzik Dadya - Official",
       "channel": "איציק דדיה - הערוץ הרשמי - Itzik Dadya - Official",
       "link": "https://www.youtube.com/watch?v=5j4zyNnqtQY",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/6d9b9c99c76d.jpg",
@@ -1391,7 +1391,7 @@
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/f1617f5f5f05.jpg",
       "description": "",
       "publishedAt": "16y ago",
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-05-15T11:57:06.846Z"
     },
     {
@@ -1417,7 +1417,7 @@
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/9cc95d9b94a2.jpg",
       "description": "",
       "publishedAt": "6y ago",
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-05-15T11:57:06.846Z"
     },
     {
@@ -1469,7 +1469,7 @@
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/7a086a1d8a47.jpg",
       "description": "",
       "publishedAt": "11y ago",
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-05-15T11:57:06.846Z"
     },
     {
@@ -1547,7 +1547,7 @@
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/fd54530ee412.jpg",
       "description": "",
       "publishedAt": "4y ago",
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-05-15T11:57:06.846Z"
     },
     {
@@ -1560,7 +1560,7 @@
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/56b2c0280d8e.jpg",
       "description": "",
       "publishedAt": "8y ago",
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-05-15T11:57:06.846Z"
     },
     {
@@ -1573,7 +1573,7 @@
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/0030569a5d64.jpg",
       "description": "",
       "publishedAt": "9mo ago",
-      "isNew": false,
+      "isNew": true,
       "firstSeen": "2026-05-15T11:57:06.846Z"
     },
     {
@@ -1612,7 +1612,7 @@
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/48a0eb33c590.jpg",
       "description": "",
       "publishedAt": "",
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-05-15T11:57:06.846Z"
     },
     {
@@ -1742,7 +1742,7 @@
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/290b6c04511f.jpg",
       "description": "",
       "publishedAt": "6y ago",
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-05-15T12:04:01.501Z"
     },
     {
@@ -1755,7 +1755,7 @@
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/2ee76d020f84.jpg",
       "description": "",
       "publishedAt": "12y ago",
-      "isNew": false,
+      "isNew": true,
       "firstSeen": "2026-05-15T12:04:01.501Z"
     },
     {
@@ -1820,7 +1820,7 @@
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/9d57140b83b2.jpg",
       "description": "",
       "publishedAt": "2y ago",
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-05-15T12:04:01.501Z"
     },
     {
@@ -1859,7 +1859,7 @@
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/9ddb43dd1b6a.jpg",
       "description": "",
       "publishedAt": "10mo ago",
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-05-15T12:04:01.501Z"
     },
     {
