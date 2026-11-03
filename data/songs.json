@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T18:06:07.640Z",
+  "generatedAt": "2026-11-03T11:49:22.757Z",
   "totalSongs": 200,
   "totalTranscribed": 0,
   "songs": [
@@ -2041,7 +2041,7 @@
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/222297434484.jpg",
       "description": "",
       "publishedAt": "11mo ago",
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-05-15T12:04:01.501Z"
     },
     {
@@ -2054,7 +2054,7 @@
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/7645a2d77d86.jpg",
       "description": "",
       "publishedAt": "4y ago",
-      "isNew": false,
+      "isNew": true,
       "firstSeen": "2026-05-15T12:04:01.501Z"
     },
     {
@@ -2100,7 +2100,7 @@
       "id": "bf22743236cb",
       "videoId": "OWAshYnj5wk",
       "title": "\"Aleh Katan\" Shimmy Engel feat: Yishai Lapidot - Official Music Video",
-      "artist": "שימי אנגל",
+      "artist": "ישי לפידות",
       "channel": "Shimmy Engel (Shimmy Engel Music)",
       "link": "https://www.youtube.com/watch?v=OWAshYnj5wk",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/bf22743236cb.jpg",
@@ -2158,7 +2158,7 @@
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/fd0f85366410.jpg",
       "description": "",
       "publishedAt": "5y ago",
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-05-15T12:04:01.501Z"
     },
     {
@@ -2236,7 +2236,7 @@
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/687b77295997.jpg",
       "description": "",
       "publishedAt": "1y ago",
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-05-15T14:24:43.322Z"
     },
     {
@@ -2249,7 +2249,7 @@
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/aec755714f5e.jpg",
       "description": "",
       "publishedAt": "8y ago",
-      "isNew": false,
+      "isNew": true,
       "firstSeen": "2026-05-15T14:24:43.322Z"
     },
     {
