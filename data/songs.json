@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-10T02:46:53.620Z",
+  "generatedAt": "2026-11-10T12:24:28.089Z",
   "totalSongs": 200,
   "totalTranscribed": 0,
   "songs": [
@@ -111,7 +111,7 @@
       "id": "d48c35b5bb91",
       "videoId": "jDfe5NiiZYE",
       "title": "גוף ונשמה - יעקב שוואקי & אמיר דדון | Guf VeNeshama (Live) - Yaakov Shwekey & Amir Dadon",
-      "artist": "יעקב שוואקי",
+      "artist": "Yaakov Shwekey יעקב שוואקי",
       "channel": "Yaakov Shwekey יעקב שוואקי",
       "link": "https://www.youtube.com/watch?v=jDfe5NiiZYE",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/d48c35b5bb91.jpg",
@@ -130,7 +130,7 @@
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/316ffebdc400.jpg",
       "description": "",
       "publishedAt": "4y ago",
-      "isNew": false,
+      "isNew": true,
       "firstSeen": "2026-05-15T11:31:32.180Z"
     },
     {
@@ -215,7 +215,7 @@
       "id": "6d9b9c99c76d",
       "videoId": "5j4zyNnqtQY",
       "title": "Itzik Dadya - Bayit Shel Shalom | איציק דדיה - בית של שלום (Official Music Video)",
-      "artist": "איציק דדיה",
+      "artist": "איציק דדיה - הערוץ הרשמי - Itzik Dadya - Official",
       "channel": "איציק דדיה - הערוץ הרשמי - Itzik Dadya - Official",
       "link": "https://www.youtube.com/watch?v=5j4zyNnqtQY",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/6d9b9c99c76d.jpg",
@@ -1104,7 +1104,7 @@
       "link": "https://www.youtube.com/watch?v=R2BwMTfn68k",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/0db999463ee9.jpg",
       "description": "",
-      "publishedAt": "7mo ago",
+      "publishedAt": "8mo ago",
       "isNew": false,
       "firstSeen": "2026-05-15T11:49:11.044Z"
     },
@@ -1144,7 +1144,7 @@
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/aad27790049d.jpg",
       "description": "",
       "publishedAt": "3y ago",
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-05-15T11:49:11.044Z"
     },
     {
@@ -1364,7 +1364,7 @@
       "link": "https://www.youtube.com/watch?v=MUzxTPUXNIw",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/bef731967726.jpg",
       "description": "",
-      "publishedAt": "6 years ago",
+      "publishedAt": "6y ago",
       "isNew": true,
       "firstSeen": "2026-05-15T11:57:06.846Z"
     },
@@ -1404,7 +1404,7 @@
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/7a00aa06cb4d.jpg",
       "description": "",
       "publishedAt": "",
-      "isNew": false,
+      "isNew": true,
       "firstSeen": "2026-05-15T11:57:06.846Z"
     },
     {
