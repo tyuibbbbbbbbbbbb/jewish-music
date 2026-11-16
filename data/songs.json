@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T05:50:06.506Z",
+  "generatedAt": "2026-11-16T18:18:43.613Z",
   "totalSongs": 200,
   "totalTranscribed": 0,
   "songs": [
@@ -98,7 +98,7 @@
       "id": "9a2361e30bd0",
       "videoId": "A5JsQIZfroQ",
       "title": "איציק דדיה - יצר טוב | Itzik Dadya - Yetzer Tov (Prod. By Avrumi Sternfeld)",
-      "artist": "איציק דדיה",
+      "artist": "איציק דדיה - הערוץ הרשמי - Itzik Dadya - Official",
       "channel": "איציק דדיה - הערוץ הרשמי - Itzik Dadya - Official",
       "link": "https://www.youtube.com/watch?v=A5JsQIZfroQ",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/9a2361e30bd0.jpg",
@@ -325,7 +325,7 @@
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/864fe55fc806.jpg",
       "description": "",
       "publishedAt": "1y ago",
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-05-15T11:31:32.181Z"
     },
     {
@@ -376,8 +376,8 @@
       "link": "https://www.youtube.com/watch?v=5O1YiV7gKDo",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/c237fd1f04e3.jpg",
       "description": "",
-      "publishedAt": "2y ago",
-      "isNew": false,
+      "publishedAt": "3y ago",
+      "isNew": true,
       "firstSeen": "2026-05-15T11:31:32.181Z"
     },
     {
@@ -468,7 +468,7 @@
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/996b1dc5ce10.jpg",
       "description": "",
       "publishedAt": "1y ago",
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-05-15T11:31:32.181Z"
     },
     {
