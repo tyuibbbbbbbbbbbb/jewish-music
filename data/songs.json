@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-17T23:34:41.008Z",
+  "generatedAt": "2026-11-18T06:51:09.721Z",
   "totalSongs": 200,
   "totalTranscribed": 0,
   "songs": [
@@ -215,7 +215,7 @@
       "id": "6d9b9c99c76d",
       "videoId": "5j4zyNnqtQY",
       "title": "Itzik Dadya - Bayit Shel Shalom | איציק דדיה - בית של שלום (Official Music Video)",
-      "artist": "איציק דדיה",
+      "artist": "איציק דדיה - הערוץ הרשמי - Itzik Dadya - Official",
       "channel": "איציק דדיה - הערוץ הרשמי - Itzik Dadya - Official",
       "link": "https://www.youtube.com/watch?v=5j4zyNnqtQY",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/6d9b9c99c76d.jpg",
@@ -1976,7 +1976,7 @@
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/7290307fa12d.jpg",
       "description": "",
       "publishedAt": "5y ago",
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-05-15T12:04:01.501Z"
     },
     {
@@ -2040,7 +2040,7 @@
       "link": "https://www.youtube.com/watch?v=YUKNzgJT1VI",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/222297434484.jpg",
       "description": "",
-      "publishedAt": "11mo ago",
+      "publishedAt": "1y ago",
       "isNew": false,
       "firstSeen": "2026-05-15T12:04:01.501Z"
     },
@@ -2067,7 +2067,7 @@
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/9bafe4f0edc5.jpg",
       "description": "",
       "publishedAt": "6y ago",
-      "isNew": true,
+      "isNew": false,
       "firstSeen": "2026-05-15T12:04:01.501Z"
     },
     {
@@ -2100,7 +2100,7 @@
       "id": "bf22743236cb",
       "videoId": "OWAshYnj5wk",
       "title": "\"Aleh Katan\" Shimmy Engel feat: Yishai Lapidot - Official Music Video",
-      "artist": "שימי אנגל",
+      "artist": "ישי לפידות",
       "channel": "Shimmy Engel (Shimmy Engel Music)",
       "link": "https://www.youtube.com/watch?v=OWAshYnj5wk",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/bf22743236cb.jpg",
