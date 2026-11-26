@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T14:11:09.614Z",
+  "generatedAt": "2026-11-26T00:14:10.567Z",
   "totalSongs": 200,
   "totalTranscribed": 0,
   "songs": [
@@ -390,7 +390,7 @@
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/8814e2ccc7c2.jpg",
       "description": "",
       "publishedAt": "2y ago",
-      "isNew": false,
+      "isNew": true,
       "firstSeen": "2026-05-15T11:31:32.181Z"
     },
     {
@@ -501,13 +501,13 @@
       "id": "10f7fb241ba3",
       "videoId": "w-W8atV3H8c",
       "title": "ארי היל, יואלי קליין, שייע גרוס - עינינו תלויות | Ari hill, yoeli klain, shayeh gross - Enenu Tluyot",
-      "artist": "יואלי קליין",
+      "artist": "ארי היל",
       "channel": "ארי היל | Ari Hill",
       "link": "https://www.youtube.com/watch?v=w-W8atV3H8c",
       "thumbnail": "https://raw.githubusercontent.com/tyuibbbbbbbbbbbb/jewish-music/main/data/images/10f7fb241ba3.jpg",
       "description": "",
-      "publishedAt": "2 years ago",
-      "isNew": false,
+      "publishedAt": "3y ago",
+      "isNew": true,
       "firstSeen": "2026-05-15T11:31:32.181Z"
     },
     {
